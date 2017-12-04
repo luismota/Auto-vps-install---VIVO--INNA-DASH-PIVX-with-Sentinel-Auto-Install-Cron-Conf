@@ -9,7 +9,10 @@ Login to your node as "root".
 Clone this git repository first:
 
 ```
-git clone https://github.com/luismota/Auto-install---VIVO--INNA-DASH-PIVX-with-Sentinel-Auto-Install-Cron-Conf.git && cd vps
+git clone 
+https://github.com/luismota/Auto-vps-install---VIVO--INNA-DASH-PIVX-with-Sentinel-Auto-Install-Cron-Conf.git && cd vps
+
+
 ```
 
 
@@ -74,7 +77,7 @@ You get the idea, another step to a fully automated setup... ;-)
 If you want to check the status of your masternode, the best way is currently running the cli e.g. via
 
 ```
-/usr/local/bin/mue-cli -conf=/etc/masternodes/mue_n1.conf getinfo
+/usr/local/bin/mue-cli -conf=/etc/masternodes/vivo_n1.conf getinfo
 
 {
   "version": 1000302,
