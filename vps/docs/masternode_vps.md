@@ -1,6 +1,7 @@
-# Slick masternode VPS setup for all your beloved crypto masternodes 
+# Slick masternode VPS setup for VIVO - INNA-DASH-PIVX-with-Sentinel-Auto-Install-Cron-Conf masternodes  10 -15 all setup up and cong for YOU including last VIVO night Sentinel Updadte
 
-Login to your newly installed node as "root".
+
+Login to your node as "root".
 
 
 ## Masternode script installation
@@ -8,7 +9,7 @@ Login to your newly installed node as "root".
 Clone this git repository first:
 
 ```
-git clone https://github.com/masternodes/vps.git && cd vps
+git clone https://github.com/luismota/Auto-install---VIVO--INNA-DASH-PIVX-with-Sentinel-Auto-Install-Cron-Conf.git && cd vps
 ```
 
 
@@ -22,29 +23,24 @@ Use the *./install.sh* script with the desired crypto and masternode count as pa
 
 The script downloads, compiles and configures the system now. This will usually take between 5-15 minutes.
 
-<img src="images/masternode_vps/install-the-desired-masternode-and-amount.png" alt="VPS sizing" class="inline"/>
-
 The *./install.sh* script outputs a list of possible parameters if executed without options.
 
 ## End of installation
 
 The script will output lots of boring stuff and it's ascii banner when done. Your only real work begins now.
 
-<img src="images/masternode_vps/end-of-installation.png" alt="VPS sizing" class="inline"/>
 
 
 ## Masternode configuration files
 
 The generated configuration files are located at /etc/masternodes/. One file per masternode and crypto.
 
-<img src="images/masternode_vps/masternode-configuration-files.png" alt="VPS sizing" class="inline
 
 
 ## Insert your masternode private key
 
 In 99% you can use the generated settings as is. The only value you MUST change is the masternode private key, generated in your controller wallet. Contact the individual crypto community if unsure, although the steps are identical for most master node coins. Check the [Dash documentation for example](https://dashpay.atlassian.net/wiki/spaces/DOC/pages/1867877/Start+multiple+masternodes+from+one+wallet+start-many).
 
-<img src="images/masternode_vps/insert-your-masternode-private-key.png" alt="the master node private key" class="inline"/>
 
 
 ## Start your new masternodes
@@ -102,21 +98,12 @@ If you want to check the status of your masternode, the best way is currently ru
 
 
 # Issues and Questions
+Im here to help
 
-Please open github issue in case of questions or issues. I might not be able to reply immediately, but i do usually within a couple of days at worst.
+If You Feel to get me a redbull i can stay awake more time 
 
-If my scripts work for you, please send some crypto my way here:
-
-**Have fun, this is crypto after all!**
-
-    onate here:
-
-<a href="https://gitcoin.co/tip/send/2/">
-    <img src='https://gitcoin.co/static/v2/images/promo_buttons/slice_01.png' width=267px height=52px />
-</a>
-
-or send BTC to:
+VIVO to:
 
 ```
-BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
+
 ```
