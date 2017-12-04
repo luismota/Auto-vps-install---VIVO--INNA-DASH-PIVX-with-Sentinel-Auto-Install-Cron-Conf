@@ -1,6 +1,6 @@
 # Auto-install---VIVO--INNA-DASH-PIVX-with-Sentinel-Auto-Install---Cron-Conf
 
-Slick masternode VPS setup for VIVO - INNA-DASH-PIVX-with-Sentinel-Auto-Install-Cron-Conf masternodes 10 -15 all setup up and cong for YOU including last VIVO night Sentinel Update
+Slick masternode VPS setup for VIVO - INNA-DASH-PIVX-with-Sentinel-Auto-Install-Cron-Conf masternodes 10 -15 all setup up and conf for YOU automatic -=  including last night Vivo Sentinel Update
 
 Login to your node as "root".
 
