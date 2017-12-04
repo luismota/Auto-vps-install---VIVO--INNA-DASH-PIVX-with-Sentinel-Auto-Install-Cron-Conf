@@ -100,10 +100,10 @@ If you want to check the status of your masternode, the best way is currently ru
 # Issues and Questions
 Im here to help
 
-If You Feel to get me a redbull i can stay awake more time 
+If You Feel to get me a redbull i can stay awake more time :)
 
-VIVO to:
-
+TIP ME Some VIVO to:
 ```
+VYdyieMgjSxJxGtZnPShqsYj7oz7Nd9ZDH
 
 ```
